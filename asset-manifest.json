@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dariabash/wordle-anche/static/css/main.449268ac.css",
+    "main.js": "/dariabash/wordle-anche/static/js/main.03a8c40e.js",
+    "index.html": "/dariabash/wordle-anche/index.html",
+    "main.449268ac.css.map": "/dariabash/wordle-anche/static/css/main.449268ac.css.map",
+    "main.03a8c40e.js.map": "/dariabash/wordle-anche/static/js/main.03a8c40e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.449268ac.css",
+    "static/js/main.03a8c40e.js"
+  ]
+}
