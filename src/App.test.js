@@ -11,3 +11,31 @@ test("renders with a specific class name", () => {
   const elementWithClassName = container.querySelector(".columns"); // Replace 'your-class-name' with the actual class name
   expect(elementWithClassName).toBeInTheDocument();
 });
+
+test("renders with a specific class name", () => {
+  const { container } = render(<App />);
+
+  const elementWithClassName = container.querySelector(".board-col");
+  expect(elementWithClassName).toBeInTheDocument();
+})
+
+test("renders with a specific class name", () => {
+  const { container } = render(<App />);
+
+  const elementWithClassName = container.querySelector(".keyboard-wrapper");
+  expect(elementWithClassName).toBeInTheDocument();
+})
+
+test("renders with a specific id name", () => {
+  const { container } = render(<App />);
+
+  const elementWithClassName = container.querySelector("#main");
+  expect(elementWithClassName).toBeInTheDocument();
+})
+
+test("renders with a specific id name", () => {
+  const { container } = render(<App />);
+
+  const elementWithClassName = container.querySelector("#game");
+  expect(elementWithClassName).toBeInTheDocument();
+})
