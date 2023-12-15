@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dariabash/io/static/css/main.449268ac.css",
+    "main.js": "/dariabash/io/static/js/main.03a8c40e.js",
+    "index.html": "/dariabash/io/index.html",
+    "main.449268ac.css.map": "/dariabash/io/static/css/main.449268ac.css.map",
+    "main.03a8c40e.js.map": "/dariabash/io/static/js/main.03a8c40e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.449268ac.css",
+    "static/js/main.03a8c40e.js"
+  ]
+}
